@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2020-08-12T02:08:11.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" version="13.6.2" etag="PXdV18zz6L-H4Z4fqjdn" type="github"><diagram id="hjZ-3BvuVy16Nxwoc7xu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-12T02:58:48.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="JyC4rnD6xpU5IfnUBLZu" version="13.6.2" type="github">
+  <diagram id="hjZ-3BvuVy16Nxwoc7xu" name="第 1 页">
+    <mxGraphModel dx="1609" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="170" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-2" value="Mark Word" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="125" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-4" value="ClassPoint" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="125" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-5" value="对象数据：基本变量/引用变量/对象句柄" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="125" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-6" value="补齐" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="125" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-7" value="&lt;b&gt;普通对象对象布局&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="310" y="80" width="170" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-17" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="z9LVmpBzb16XPN9jqrjc-10" target="z9LVmpBzb16XPN9jqrjc-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-10" value="Mark Word" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="335" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-11" value="ClassPoint" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="335" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-12" value="数组长度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="335" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-13" value="数组数据：基本变量/引用变量/对象句柄" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="335" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-14" value="补齐" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="335" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-15" value="&lt;b&gt;数组对象对象布局&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="500" y="60" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-21" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" edge="1" parent="1" source="z9LVmpBzb16XPN9jqrjc-19" target="z9LVmpBzb16XPN9jqrjc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=0;strokeColor=#457B9D;fillColor=#A8DADC;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="105" y="110" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z9LVmpBzb16XPN9jqrjc-20" value="对象头" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
