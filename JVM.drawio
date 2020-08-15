@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-15T15:47:18.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="xyr0QzOdG7KcLKKKrRH_" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-15T16:15:21.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="Pmcb03NBgeH-1eU9ISwI" version="13.6.2" type="github">
   <diagram id="5p9OzpQsghAwizFTSHsP" name="Page-1">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,6 +54,14 @@
         </mxCell>
         <mxCell id="pj49CJDoIJGd3NTYboOR-18" value="本地接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="660" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jVanTmlO4XnHwlgweJA1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pj49CJDoIJGd3NTYboOR-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="629.2" y="235" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jVanTmlO4XnHwlgweJA1-6" value="class文件" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud_services_configuration_file;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="215" width="47.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
